@@ -10,7 +10,7 @@ Welcome to the Django-React Image Cropper project! This repository provides a se
 git clone https://github.com/parsaasaber/Django-React-image-cropper.git
 
 
-cd Django-React-image-cropper.git
+cd Django-React-image-cropper
 ```
 
 2. Create venv and activate it:
